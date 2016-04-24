@@ -1,2 +1,2 @@
 # hello-world
-prima repoditory
+prima repository
